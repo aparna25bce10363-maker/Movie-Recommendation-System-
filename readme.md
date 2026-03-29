@@ -2,7 +2,7 @@
 
 
 
-OVERVIEW
+OVERVIEW...
 
 In today’s digital era, users are overwhelmed with a large number of choices on streaming platforms. Selecting a movie that matches personal interest becomes difficult and time-consuming.
 
@@ -11,7 +11,7 @@ This project presents a simple Movie Recommendation System that suggests movies 
 The main aim of this project is to apply basic AI/ML concepts learned in the course to a real-world problem in an understandable and practical way.
 
 
-PROBLEM STATEMENT
+PROBLEM STATEMENT...
 
 Choosing what to watch is often confusing due to the availability of numerous options. Many users spend more time searching for a movie than actually watching it.
 
